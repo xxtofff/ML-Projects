@@ -1,4 +1,4 @@
-# Machine Learning and Data Science Portfolio
+# Machine Learning and Data Science Projects
 
 This repository contains a collection of machine learning and data science projects aimed at developing practical modeling skills across multiple domains, including deep learning and time series analysis. Each project follows an end-to-end workflow covering data preprocessing, feature engineering, model development, and evaluation.
 
